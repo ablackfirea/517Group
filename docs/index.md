@@ -3,24 +3,27 @@
 layout: home
 
 hero:
-  name: "517Group"
-  text: "一个全新的特色OI团队"
-  tagline: 由517OIer创立的团队
+  name: "YeyanPRO.cn&Ex517"
+  text: "一个优秀的517美化插件，位列全517榜首。"
+  tagline: 不只是一个插件
   actions:
-    - theme: brand
-      text: 元安大典
-      link: /start
+  
     - theme: alt
-      text: 517Group - 洛谷
-      link: https://www.luogu.com.cn/team/61713
+      text: 快速开始
+      link: https://userstyles.world/style/14923/ex517
+    
+    - theme: bread
+      text: YeyanPRO.cn
+      link: https://yeyanpro.cn
+    
 
 features:
-  - title: 权力更迭
-    details: 每任皇帝都会把管理者权限禅让给下一位有能力的人。
-  - title: 制度体系
-    details: 效仿历朝历代，改革创新，使团队变得更加美好
-  - title: 历史积淀
-    details: 从始皇年间开始记载的知识，一直沉淀到现在，不仅有历代编年史，还有我们自己的Hexo个人博客
+  - title: 美观的视觉
+    details: 采用仿win11圆角，传统穿透阴影起伏，凝聚式按钮，自定义背景，所有场景都经过改造。
+  - title: 方便的安装
+    details: 安装全程不到0.5秒，只要你点击一下即可快速安装，全517最亲民。
+  - title: 持续更新，完全免费
+    details: 我们从不收费，而且已知在持续更新，目前是1周~1月一更。
 
 ---
 
